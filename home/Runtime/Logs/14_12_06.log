@@ -1,0 +1,15 @@
+[ 2014-12-06T23:30:12+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001626s ]
+
+[ 2014-12-06T23:30:20+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002534s ]
+
+[ 2014-12-06T23:30:28+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+

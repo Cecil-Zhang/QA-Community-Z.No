@@ -1,0 +1,169 @@
+﻿.heading{
+	text-align:center;
+	font-size:50px;
+	padding-top:30px;
+}
+
+.footer{
+	text-align:center;
+	margin-top:80px;
+	font-size: 80%;
+	font-style:italic;
+}
+
+.inbutton{
+	width:130px;
+	margin-left:10px;
+}
+
+.mybutton{
+	height:50px;
+	width:100px;
+	font-family:微软雅黑;
+}
+
+.haspadding{
+	padding-top:70px;
+	padding-bottom:60px;
+}
+
+.nopadding{
+	padding-top:0px;
+}
+
+.infolabel{
+	font-size:large;
+}
+
+.personelrow{
+	margin-top:40px;
+}
+
+.paddingrow{
+	margin-top:80px;
+}
+
+.leftMargin{
+	margin-left:3px;
+}
+
+.text{
+	font-family:Georgia,微软雅黑;
+}
+
+.thumbnail{
+	height:50px;
+	width:50px;
+}
+
+/* creditRecord.php */
+.center{
+	text-align:center;
+	margin:0 auto;
+}
+
+.username{
+	color:#34495e;
+}
+
+
+.sxText{
+	font-size:10px;
+	margin-bottom:0px;
+}
+
+.paddingRight{
+	padding-right:16px;
+}
+
+.paddingLeft{
+	padding-left:16px;
+}
+
+/* main.php */
+.title{
+	font-weight:bold;
+	color:#0099CC;
+}
+
+.headImg{
+	width:75px;
+	height:75px;
+	margin-top:20px;
+}
+
+.wide{
+	padding-right:30px;
+}
+
+.myoption{
+	height:30px;
+}
+
+.credit{
+	font-size:large;
+	color:#95A5A6;
+}
+
+.tag{
+	font-family:微软雅黑;
+	font-size:small;
+	color:#2C3E50;
+}
+
+.readonlytext{
+	font-size:large;
+}
+#currentCredit{
+	float:right;
+}
+
+#myselect{
+	height:30px;
+}
+
+
+#proBar{
+	margin-top:15px;
+}
+
+#headImg{
+	margin-top:-20px;
+}
+
+#personeledit{
+	/* background-color:#BDC3C7; */
+	margin-left:180px;
+	margin-right:180px;
+}
+
+
+#scope{
+	height:35px;
+	width:75px;
+	margin-bottom:0px;
+}
+
+#personel{
+	margin-right:10px;
+}
+
+#unread{
+	margin-top:5px;
+	position:static;
+}
+
+#inerror{
+	position:absolute;
+	color:#FF6666;
+	padding-top:20px;
+}
+#nameerror{
+	color:#FF6666;
+}
+
+#login{
+	background-color:#999999;
+	margin-right:50px;
+}
+

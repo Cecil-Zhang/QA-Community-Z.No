@@ -1,0 +1,295 @@
+[ 2014-11-15T00:00:23+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+
+[ 2014-11-15T00:00:26+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+
+[ 2014-11-15T00:00:29+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+
+[ 2014-11-15T00:07:36+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+
+[ 2014-11-15T00:11:45+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+
+[ 2014-11-15T00:12:25+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+
+[ 2014-11-15T00:15:29+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+
+[ 2014-11-15T00:18:43+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001590s ]
+
+[ 2014-11-15T00:18:48+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+
+[ 2014-11-15T00:18:59+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+
+[ 2014-11-15T14:48:33+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016751s ]
+
+[ 2014-11-15T14:48:39+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013206s ]
+
+[ 2014-11-15T14:49:00+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.079291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.079365s ]
+
+[ 2014-11-15T14:49:16+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+
+[ 2014-11-15T15:18:44+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001051s ]
+
+[ 2014-11-15T15:22:19+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001653s ]
+
+[ 2014-11-15T15:22:21+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+
+[ 2014-11-15T15:22:54+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+
+[ 2014-11-15T15:28:25+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+
+[ 2014-11-15T15:29:14+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+
+[ 2014-11-15T15:30:24+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+
+[ 2014-11-15T15:42:21+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001535s ]
+
+[ 2014-11-15T15:49:13+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+
+[ 2014-11-15T15:51:24+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+
+[ 2014-11-15T15:56:11+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+
+[ 2014-11-15T15:56:42+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+
+[ 2014-11-15T15:58:25+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+
+[ 2014-11-15T15:58:29+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001643s ]
+
+[ 2014-11-15T15:58:38+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001620s ]
+
+[ 2014-11-15T15:58:50+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+
+[ 2014-11-15T15:59:20+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001521s ]
+
+[ 2014-11-15T15:59:39+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+
+[ 2014-11-15T15:59:49+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+
+[ 2014-11-15T16:00:52+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+
+[ 2014-11-15T16:01:36+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+
+[ 2014-11-15T16:02:27+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+
+[ 2014-11-15T16:06:12+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+
+[ 2014-11-15T16:48:55+08:00 ] 0.0.0.0 /think/index.php/Personel/firstEdit
+ERR: 模板不存在[./home/Tpl/Personel/firstEdit.html]
+
+[ 2014-11-15T20:23:37+08:00 ] 0.0.0.0 /think/index.php/Personel/edit
+ERR: 参数错误或者未定义:ifFirst
+
+[ 2014-11-15T21:03:44+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+
+[ 2014-11-15T21:03:46+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:10:16+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:10:20+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:10:55+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:10:58+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:01+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:02+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:02+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:02+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:03+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:03+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:03+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:03+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:03+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:04+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:04+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:04+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:04+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:04+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:11:05+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:13:17+08:00 ] 0.0.0.0 /think/index.php/Login/Personel/edit/ifFirst/true
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:16:04+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+
+[ 2014-11-15T21:19:50+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+
+[ 2014-11-15T21:26:38+08:00 ] 0.0.0.0 /think/index.php/Personel/save
+ERR: 模板不存在[./home/Tpl/Personel/save.html]
+
+[ 2014-11-15T21:38:51+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+
+[ 2014-11-15T21:44:08+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+
+[ 2014-11-15T21:44:21+08:00 ] 0.0.0.0 /think/index.php/Personel/Personel/edit/ifFirst/false
+ERR: 非法操作:Personel
+
+[ 2014-11-15T21:52:07+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+
+[ 2014-11-15T22:21:23+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+

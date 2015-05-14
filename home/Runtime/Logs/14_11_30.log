@@ -1,0 +1,20 @@
+[ 2014-11-30T21:37:04+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.017784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017888s ]
+
+[ 2014-11-30T21:37:19+08:00 ] 0.0.0.0 /think/index.php/Personel/creditRecord.php
+ERR: 非法操作:creditRecord.php
+
+[ 2014-11-30T21:41:19+08:00 ] 0.0.0.0 /think/index.php/Personel/%E2%80%94%E2%80%94APP__/Personel/showCredit
+ERR: 非法操作:——APP__
+
+[ 2014-11-30T21:41:37+08:00 ] 0.0.0.0 /think/index.php/Personel/quiz.php
+ERR: 非法操作:quiz.php
+
+[ 2014-11-30T22:05:59+08:00 ] 0.0.0.0 /think/index.php/Quiz
+ERR: 非法操作:index
+
+[ 2014-11-30T22:06:06+08:00 ] 0.0.0.0 /think/index.php/Quiz
+ERR: 非法操作:index
+

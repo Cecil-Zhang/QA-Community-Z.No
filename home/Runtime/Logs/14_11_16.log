@@ -1,0 +1,18 @@
+[ 2014-11-16T23:35:23+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+
+[ 2014-11-16T23:35:30+08:00 ] 0.0.0.0 /think/index.php/Index/personel.php
+ERR: 非法操作:personel.php
+
+[ 2014-11-16T23:41:14+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+
+[ 2014-11-16T23:43:35+08:00 ] 0.0.0.0 /think/index.php/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+

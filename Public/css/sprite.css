@@ -1,0 +1,27 @@
+.cat{
+	background: url('../img/sprite.png');
+	display:block;
+	width:35px;
+	height:35px;
+}
+
+.cat-1{
+	background-position: -2px -5px;
+}
+
+.cat-2{
+	background-position: -280px -5px;
+}
+
+.cat-3{
+	background-position: -325px -5px;
+}
+
+.padless{
+	padding:1px;
+	border:1px;
+}
+
+.perror{
+	color:red;
+}
